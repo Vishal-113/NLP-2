@@ -1,6 +1,6 @@
-NAME; Vishal Vusnagiri
-Student Id; 7000763454
-Course; Natural Language Processing
+###NAME; Vishal Vusnagiri
+###Student Id; 7000763454
+###Course; Natural Language Processing
 
 ## 📚 Bigram Language Model Implementation
 
