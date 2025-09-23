@@ -99,6 +99,3 @@ Most probable sentence: <s> I love NLP </s>
 
 This project is based on coursework and lecture materials from **Natural Language Processing** classes involving n-gram language modeling.
 
----
-
-Let me know if you'd like me to write the Python code that goes with this README!
